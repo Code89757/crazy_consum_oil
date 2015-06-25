@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">疯狂油耗</string>
+    <string name="my_struct">概览</string>
+    <string name="my_consume">油耗</string>
+</resources>
