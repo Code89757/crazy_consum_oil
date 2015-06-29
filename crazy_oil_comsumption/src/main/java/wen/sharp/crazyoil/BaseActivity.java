@@ -100,11 +100,6 @@ public abstract class BaseActivity extends AppCompatActivity {
         return ThemeUtils.Theme.mapValueToTheme(value);
     }
 
-    @Override
-    public void onDestroy() {
-        super.onDestroy();
-    }
-
     /**
      * 增加了默认的返回finish事件
      */
